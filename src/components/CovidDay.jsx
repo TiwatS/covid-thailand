@@ -18,7 +18,7 @@ export default function CovidDay() {
     return (
         <>
             <div style={{ textAlign: "center", marginTop: "30px" }} >
-                <Title level={2} strong  >รายงานสถานการณ์ COVID-19 ประจำวัน</Title>
+                <Title level={2} strong  >รายงานสถานการณ์ COVID-19 ประจำวันนี้</Title>
             </div>
             <div className="site-card-wrapper">
                 <Row gutter={24}>
